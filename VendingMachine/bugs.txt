@@ -1,0 +1,3 @@
+The slot variables are public. 
+	- Changed them to private.
+
